@@ -1,0 +1,5 @@
+Day 4 - Git download and installation
+Day 4 - Github creation, push and pull operations
+Day 4 - file creation and folder creation
+Day 4 - Basic commands of ubuntu operating system
+
